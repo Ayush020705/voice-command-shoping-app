@@ -50,7 +50,7 @@ npm install
 npm run dev
 ```
 Open the printed local URL (usually http://localhost:5173).
-Deployed Project Link (usually [http://localhost:5173](https://voice-command-shopin-git-5d406a-ayush-mishras-projects-7813fe2a.vercel.app/)).
+Deployed Project Link (usually http://localhost:5173](https://voice-command-shopin-git-5d406a-ayush-mishras-projects-7813fe2a.vercel.app/).
 
 ## Notes
 - The ML service trains on startup using a lightweight synthetic dataset that covers typical phrasings
